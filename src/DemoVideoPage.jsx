@@ -96,8 +96,8 @@ const DemoVideoPage = () => {
       </main>
 
       <footer className="bg-gray-800 text-center py-4 mt-8">
-        <p>&copy; 2023 Hansard+. All rights reserved.</p>
-        {/* Add social media links and other footer content */}
+        <p>&copy; 2024 Hansard+ by Timor Tech. All rights reserved.</p>
+        {/* TODO: Add social media links and other footer content */}
       </footer>
     </div>
   );
