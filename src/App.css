@@ -40,3 +40,14 @@
 .read-the-docs {
   color: #888;
 }
+
+/* The horizontal line animation for larger screens */
+.absolute {
+  position: absolute;
+  top: 50%;
+  left: 0;
+  transform: translateY(-50%);
+  background-color: #646cff;
+  height: 1px;
+  width: 100%;
+}
